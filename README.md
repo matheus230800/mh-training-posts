@@ -3,13 +3,6 @@
 Página de **avaliação**. Cada imagem tem um código (o mesmo do nome do arquivo). Quem aprova é o Matheus; nada é agendado sem o ok.
 Nenhuma imagem desta página contém o link do app.
 
-## Carrossel Apresente-se (8 slides, 1080 × 1350, feito pelo Codex)
-Post para ficar fixado no perfil. Aprovação por slide ou do conjunto.
-<table>
-<tr><td valign="top" width="280"><img src="apresente-se/A01-capa.jpg" width="260"><br><b>A01 · Capa: Lembra da última carga?</b></td><td valign="top" width="280"><img src="apresente-se/A02-adicionar.jpg" width="260"><br><b>A02 · Abra o dia, toque no +</b></td><td valign="top" width="280"><img src="apresente-se/A03-exercicio-e-serie.jpg" width="260"><br><b>A03 · Escolha o exercício, registre a série</b></td><td valign="top" width="280"><img src="apresente-se/A04-planejar.jpg" width="260"><br><b>A04 · Monte seu treino</b></td></tr>
-<tr><td valign="top" width="280"><img src="apresente-se/A05-descanso.jpg" width="260"><br><b>A05 · Hora do intervalo</b></td><td valign="top" width="280"><img src="apresente-se/A06-evolucao.jpg" width="260"><br><b>A06 · Sua semana em números</b></td><td valign="top" width="280"><img src="apresente-se/A07-agua-e-cardio.jpg" width="260"><br><b>A07 · Água e cardio</b></td><td valign="top" width="280"><img src="apresente-se/A08-convite.jpg" width="260"><br><b>A08 · Quer testar? Comente quero</b></td></tr>
-</table>
-
 ## Feed (1080 × 1350)
 <table>
 <tr><td valign="top" width="280"><img src="imagens/02-descanso-entre-series.jpg" width="260"><br><b>P02 · Descanso entre séries</b><br><sub>Pronta, legenda aprovada</sub></td><td valign="top" width="280"><img src="imagens/03-frequencia-registro.jpg" width="260"><br><b>P03 · A semana passa, o registro fica</b><br><sub>Pronta, legenda aprovada</sub></td><td valign="top" width="280"><img src="feed/F03-antes-depois-agua.jpg" width="260"><br><b>F03 · Antes e depois: água</b><br><sub>Botão novo de água no topo</sub></td></tr>
