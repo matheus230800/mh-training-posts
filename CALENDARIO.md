@@ -1,11 +1,11 @@
 # Calendário de postagens (@appmhtraining)
 
-Status: **feed agendado no Metricool em 20/11 (8 posts, marcados como conteúdo de IA).** Os Stories são postados pelo próprio Matheus no app do Instagram. Horário de Brasília.
+Status: **feed agendado no Metricool em 20/11 (8 posts, marcados como conteúdo de IA); o primeiro (carrossel Apresente-se) foi postado em 21/11, 10h.** Os Stories são postados pelo próprio Matheus no app do Instagram. Horário de Brasília.
 
 ## Feed (agenda o Claude, Metricool)
 | Dia | Hora | Imagem | Status |
 |---|---|---|---|
-| Sáb 21/11 | 10h | Carrossel Apresente-se (A01 a A08), depois fixar no perfil | Agendado no Metricool |
+| ~~Sáb 21/11~~ | ~~10h~~ | ~~Carrossel Apresente-se (A01 a A08), depois fixar no perfil~~ | **Postado em 21/11, 10h** (registrado em `postadas/POSTADAS.md`) |
 | Seg 23/11 | 10h | P02 Descanso entre séries | Agendado no Metricool |
 | Qua 25/11 | 10h | F03 Antes e depois: água no topo | Agendado no Metricool |
 | Sex 27/11 | 10h | P03 Frequência: a semana passa, o registro fica | Agendado no Metricool |

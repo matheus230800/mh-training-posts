@@ -12,6 +12,7 @@ Quando uma imagem da fila for parecida demais com uma postada: retirar da fila e
 | 20/11 manhã | Feed | Novidade: "Tudo do seu treino na palma da mão" (fundo de pôr do sol com palmeiras) | https://www.instagram.com/p/Df9morexx_L/ | Arte feita fora do projeto; não está arquivada aqui |
 | 20/11 manhã | Story | A mesma imagem do feed acima, reaproveitada como Story (expira em 24 h) | (Story não tem link permanente) | Mesma arte do item acima |
 | 20/11 tarde | Feed | "Lembra o que você anotou no último treino?" (Diário, P01) | https://www.instagram.com/p/Df-OeHCkfqe/ | `2026-11-20_feed_lembra-o-que-voce-anotou.jpg` |
+| 21/11 10h | Feed | Carrossel "Apresente-se" (8 slides, A01 a A08: capa "Lembra da última carga?" até o convite) | (link não registrado) | `2026-11-21_feed_apresente-se_A01-capa.jpg` a `..._A08-convite.jpg` (8 arquivos) |
 
 ## Retiradas da fila por serem parecidas com algo já postado (20/11)
 
