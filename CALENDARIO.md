@@ -6,9 +6,9 @@ Status: **feed agendado no Metricool em 20/11 (8 posts, marcados como conteúdo 
 | Dia | Hora | Imagem | Status |
 |---|---|---|---|
 | ~~Sáb 21/11~~ | ~~10h~~ | ~~Carrossel Apresente-se (A01 a A08), depois fixar no perfil~~ | **Postado em 21/11, 10h** (registrado em `postadas/POSTADAS.md`) |
-| Seg 23/11 | 10h | P02 Descanso entre séries | Agendado no Metricool |
-| Qua 25/11 | 10h | F03 Antes e depois: água no topo | Agendado no Metricool |
-| Sex 27/11 | 10h | P03 Frequência: a semana passa, o registro fica | Agendado no Metricool |
+| ~~Seg 23/11~~ | ~~10h~~ | ~~P02 Descanso entre séries~~ | **Postado em 23/11, 10h** (automático, Metricool) |
+| ~~Qua 25/11~~ | ~~10h~~ | ~~F03 Antes e depois: água no topo~~ | **Postado em 25/11, 10h** (automático, Metricool) |
+| ~~Sex 27/11~~ | ~~10h~~ | ~~P03 Frequência: a semana passa, o registro fica~~ | **Postado em 27/11, 10h** (automático, Metricool) |
 | Seg 30/11 | 10h | F11 Treino não é só academia | Agendado no Metricool |
 | Qua 2/12 | 10h | F10 Quanto de água você bebeu hoje? | Agendado no Metricool |
 | Sex 4/12 | 10h | F06 Sua constância, semana a semana | Agendado no Metricool |
