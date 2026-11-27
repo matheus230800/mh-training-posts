@@ -19,10 +19,6 @@ Story não leva legenda (o texto já está na imagem). A figurinha é opcional, 
 
 | Dia | Hora | Imagem | Figurinha sugerida |
 |---|---|---|---|
-| Seg 23/11 | 18h | S04 Quer testar o MH Training? | Enquete: "Você anota o seu treino?" Sim / Não |
-| Ter 24/11 | 18h | S03 Anote a carga de cada série | Enquete: "Você lembra a carga da última série?" Lembro / Esqueço |
-| Qui 26/11 | 18h | S02 Excluir série pede confirmação | Nenhuma |
-| Sáb 28/11 | 10h | S07 Hidratação também é treino | Enquete: "Você bebe 2 litros de água por dia?" Sim / Quase |
 | Ter 1/12 | 18h | S06 Veja sua rotina ganhar forma | Controle de emoji: "Como foi a sua semana de treino?" |
 | Qui 3/12 | 18h | S08 Seu treino cabe em qualquer lugar | Caixa de perguntas: "Onde você treina?" |
 

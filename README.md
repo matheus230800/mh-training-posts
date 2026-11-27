@@ -11,8 +11,8 @@ Nenhuma imagem desta página contém o link do app.
 
 ## Stories (1080 × 1920)
 <table>
-<tr><td valign="top" width="280"><img src="stories/S02-excluir-serie-pede-confirmacao.jpg" width="260"><br><b>S02 · Excluir série pede confirmação</b><br><sub>Corrigido</sub></td><td valign="top" width="280"><img src="stories/S03-anote-a-carga.jpg" width="260"><br><b>S03 · Anote a carga de cada série</b><br><sub>Dica de treino</sub></td><td valign="top" width="280"><img src="stories/S04-quer-testar.jpg" width="260"><br><b>S04 · Quer testar o MH Training?</b><br><sub>Convite, sem link</sub></td><td valign="top" width="280"><img src="stories/S06-veja-sua-rotina.jpg" width="260"><br><b>S06 · Veja sua rotina ganhar forma</b><br><sub>Evolução</sub></td></tr>
-<tr><td valign="top" width="280"><img src="stories/S07-hidratacao-tambem-e-treino.jpg" width="260"><br><b>S07 · Hidratação também é treino</b><br><sub>Novidade: água</sub></td><td valign="top" width="280"><img src="stories/S08-treino-cabe-em-qualquer-lugar.jpg" width="260"><br><b>S08 · Seu treino cabe em qualquer lugar</b><br><sub>Novidade: outra atividade</sub></td></tr>
+<tr><td valign="top" width="280"><img src="stories/S06-veja-sua-rotina.jpg" width="260"><br><b>S06 · Veja sua rotina ganhar forma</b><br><sub>Evolução</sub></td></tr>
+<tr><td valign="top" width="280"><img src="stories/S08-treino-cabe-em-qualquer-lugar.jpg" width="260"><br><b>S08 · Seu treino cabe em qualquer lugar</b><br><sub>Novidade: outra atividade</sub></td></tr>
 </table>
 
 ## Em atualização pelo Codex (retiradas daqui até voltarem corrigidas)
