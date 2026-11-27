@@ -20,7 +20,7 @@ Story não leva legenda (o texto já está na imagem). A figurinha é opcional, 
 | Dia | Hora | Imagem | Figurinha sugerida |
 |---|---|---|---|
 | Ter 1/12 | 18h | S06 Veja sua rotina ganhar forma | Controle de emoji: "Como foi a sua semana de treino?" |
-| Qui 3/12 | 18h | S08 Seu treino cabe em qualquer lugar | Caixa de perguntas: "Onde você treina?" |
+| ~~Qui 3/12~~ | ~~18h~~ | ~~S08 Seu treino cabe em qualquer lugar~~ | **Postado em 27/11, ~11h (manual, nos Stories)** |
 
 ## Regras
 - Nada de link em imagem, legenda ou Story.
